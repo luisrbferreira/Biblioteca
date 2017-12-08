@@ -31,7 +31,7 @@
 
 	<div id="index-banner">
 		<div class="container">
-			<h2 class="header center orange-text">Livros Cadastradas</h2>
+			<h2 class="header center orange-text">Livros Cadastrados</h2>
 			<h5 class="header center col s12 light">Você pode editar, excluir e
 				adicionar novos livros.</h5>
 		</div>
